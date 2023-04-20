@@ -20,7 +20,7 @@ I'm a software developer developer from Thailand! I'm...\
 🎨 passionate about visuals, graphics, and animation\
 🎮 learning game development\
 🧑🏻‍💻 looking to contribute to open-source web application\
-💓 fond of drawing, baking, and sleeping in my free time\
+💓 fond of drawing, baking, and sleeping in my free time
 
 --- 
 
