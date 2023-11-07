@@ -52,9 +52,4 @@ I'm a software developer developer from Thailand! I'm...\
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
- 
----
 
-## Stats
-
-[![GitHub Streak](http://https://streak-stats.demolab.com/?user=quadiez&theme=dark&background=000000)](https://git.io/streak-stats)
