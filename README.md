@@ -57,4 +57,4 @@ I'm a software developer developer from Thailand! I'm...\
 
 ## Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quadiez&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://https://streak-stats.demolab.com/?user=quadiez&theme=dark&background=000000)](https://git.io/streak-stats)
